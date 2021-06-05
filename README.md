@@ -28,3 +28,7 @@ This is a **WordPress** website developed with **Raspberry Pi** for the **Final 
 
 
 # Presentation Youtube link:
+
+
+## References :
+1. Open Source Software Lab **lecture** of **prof. Soyeon Jang** : <http://www.kocw.net/home/search/kemView.do?kemId=1375889>
