@@ -4,3 +4,27 @@
 
 This is a **WordPress** website developed with **Raspberry Pi** for the **Final Project** in **Open Source Software Lab** class.
 
+
+
+# What does this project do? 
+
+
+
+
+
+# Why is the project useful?
+
+
+
+
+# How do I get started?
+
+
+
+
+# Where can I get more help, if needed?
+1. Send an email to <22000263@handong.edu>
+
+
+
+# Presentation Youtube link:
