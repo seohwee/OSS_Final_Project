@@ -23,7 +23,7 @@ This is a **WordPress** website developed with **Raspberry Pi** for the **Final 
 
 
 # Where can I get more help, if needed?
-1. Send an email to <22000263@handong.edu>
+1. Send an email to <22000263@handong.edu> for more help!
 
 
 
@@ -32,3 +32,7 @@ This is a **WordPress** website developed with **Raspberry Pi** for the **Final 
 
 ## References :
 1. Open Source Software Lab **lecture** of **prof. Soyeon Jang** : <http://www.kocw.net/home/search/kemView.do?kemId=1375889>
+
+
+## Contribution :
+Seohwee Park (22000263)
