@@ -13,8 +13,10 @@ This is a **WordPress** website developed with **Raspberry Pi** for the **Final 
 
 
 # Why is the project useful?
-
-
+,,,
+1. It gives detailed information about traveling in Japan based on Seohwee Park's experience.
+2. Users can easily choose the destination by selecting themes.
+,,,
 
 
 # How do I get started?
