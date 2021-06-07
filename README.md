@@ -25,7 +25,7 @@ This is a **WordPress** website developed with **Raspberry Pi** for the **Final 
 
 
 # Where can I get more help, if needed?
-1. Send an email to <22000263@handong.edu> for more help!
+> 1. Send an email to <22000263@handong.edu> for more help!
 
 
 
