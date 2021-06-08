@@ -20,7 +20,8 @@ This is a **WordPress** website developed with **Raspberry Pi** for the **Final 
 
 
 # How do I get started?
-
+> 1. Download wordpress! 
+>> Link: https://ko.wordpress.org/download/releases/
 
 
 
