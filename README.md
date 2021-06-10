@@ -7,6 +7,8 @@ This is a **WordPress** website developed with **Raspberry Pi** for the **Final 
 
 **All In One! Enjoy the convenience of getting information from this site, as well as planning your destination and schedule!**
 
+# Presentation Video
+Youtube Link: https://youtu.be/2-CPn_SqA2Q 
 
 # What does this project do? 
 This project is based on CMS(Contents Management System) using WordPress developed by Raspberry Pi. This project allows myself to make my own website that provides information on traveling to Japan that I wanted to share with various people. Through this project(my website), users will be able to earn information, thus finding interesting figures that they have never seen in existing traveling sites. 
