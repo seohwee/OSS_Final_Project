@@ -8,7 +8,11 @@ This is a **WordPress** website developed with **Raspberry Pi** for the **Final 
 
 # What does this project do? 
 
-
+This site provides users with: 
+> 1. travel guide and information based on experiences and information accumulated over the 8 years of living in Japan.
+> 2. Weather information in Japan.
+> 3. Travel schedule along with reviews from travelers.
+> 4. A video clip that provides tips when traveling to Japan.
 
 
 
