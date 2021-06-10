@@ -8,12 +8,15 @@ This is a **WordPress** website developed with **Raspberry Pi** for the **Final 
 
 
 # What does this project do? 
+This project is based on CMS(Contents Management System) using WordPress developed by Raspberry Pi. This project allows myself to make my own website that provides information on traveling to Japan that I wanted to share with various people. Through this project(my website), users will be able to earn information, thus finding interesting figures that they have never seen in existing traveling sites. 
 
-This site provides users with: 
+
+# This site provides users with: 
 > 1. travel guide and information based on experiences and information accumulated over the 8 years of living in Japan.
 > 2. Weather information in Japan.
-> 3. Travel schedule along with reviews from travelers.
-> 4. A video clip that provides tips when traveling to Japan.
+> 3. Travel schedule
+> 4. Reviews from travelers.
+> 5. A video clip that provides tips when traveling to Japan.
 
 
 
@@ -22,10 +25,10 @@ This site provides users with:
 > 1. It gives detailed information about traveling in Japan based on Seohwee Park's experience.
 > 2. Users can easily choose the destination by selecting themes.
 
-# This site is :
-> 1. For those who are not good at making decisions
-> 2. For those who want to go on a trip to Japan but do not know much
-> 3. For those who need to find multiple sites every time they travel but can choose a destination
+# This site is useful to people:
+> 1. who are not good at making decisions
+> 2. who want to go on a trip to Japan but do not know much
+> 3. who need to find multiple sites every time they travel but can choose a destination
 
 
 # How do I get started?
