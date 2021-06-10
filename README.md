@@ -78,6 +78,12 @@ check https://blog.hubspot.com/marketing/wordpress-website
 ## References :
 > 1. Open Source Software Lab **lectures** of **prof. Soyeon Jang** : <http://www.kocw.net/home/search/kemView.do?kemId=1375889>
 > 2. Wordpress: https://ko.wordpress.org/download/releases/
+> 3. Research:
+>> 1. https://www.japan.travel/ko/kr/
+>> 2. https://www.planetware.com/tourist-attractions/japan-jpn.htm 
+>> 3. https://www.japan-guide.com/e/e2427.html
+>> 4. https://www.japan-guide.com/e/e2067.html
+>> 5. https://theasiacollective.com/japan-travel-guide/
 
 
 ## Contribution :
