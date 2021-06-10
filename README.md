@@ -61,7 +61,7 @@ This project is based on CMS(Contents Management System) using WordPress develop
 
 
 # Where can I get more help, if needed?
-## > 1. Send an email to <22000263@handong.edu> for more help!
+## 1. Send an email to <22000263@handong.edu> for more help and updates!
 
 For information on building a WordPress Website:
 check https://blog.hubspot.com/marketing/wordpress-website
