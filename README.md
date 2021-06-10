@@ -5,7 +5,7 @@
 
 This is a **WordPress** website developed with **Raspberry Pi** for the **Final Project** in **Open Source Software Lab** class.
 
-**All In One! Enjoy the convenience of getting information from this site, as well as planning your destination and schedule!**
+**All In One! Enjoy the convenience of getting information from this site, as well as deciding your next travel destination by selecting themes!**
 
 # Presentation Video
 Youtube Link: https://youtu.be/2-CPn_SqA2Q 
