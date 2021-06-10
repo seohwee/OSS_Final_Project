@@ -75,9 +75,6 @@ check https://blog.hubspot.com/marketing/wordpress-website
 
 
 
-# Presentation Youtube link:
-
-
 ## References :
 > 1. Open Source Software Lab **lectures** of **prof. Soyeon Jang** : <http://www.kocw.net/home/search/kemView.do?kemId=1375889>
 > 2. Wordpress: https://ko.wordpress.org/download/releases/
