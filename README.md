@@ -35,32 +35,32 @@ This project is based on CMS(Contents Management System) using WordPress develop
 
 # Why is the project useful?
 
-> 1. It gives detailed information about traveling in Japan based on Seohwee Park's experience.
-> 2. Users can easily choose the destination by selecting themes.
+## > 1. It gives detailed information about traveling in Japan based on Seohwee Park's experience.
+## > 2. Users can easily choose the destination by selecting themes.
 
 # This site is useful to people:
-> 1. who are not good at making decisions
-> 2. who want to go on a trip to Japan but do not know much
-> 3. who need to find multiple sites every time they travel but can choose a destination
+## > 1. who are not good at making decisions
+## > 2. who want to go on a trip to Japan but do not know much
+## > 3. who need to find multiple sites every time they travel but can choose a destination
 
 
 # How do I get started?
 ## Before installing WordPress (Requirements): 
-> 1. Install MySQL 5.6 or MariaDB 10.1 or greater, php 7.4 or greater, and Apache
+## > 1. Install MySQL 5.6 or MariaDB 10.1 or greater, php 7.4 or greater, and Apache
 >> Link: https://wordpress.org/support/article/before-you-install/
 
 ## Instructions:  
-> 1. Download and unzip Wordpress package! 
+## > 1. Download and unzip Wordpress package! 
 >> Link: https://ko.wordpress.org/download/releases/
-> 2. Create a Wordpress database and user
-> 3. Configure Wordpress
-> 4. Launch and access the website as local or through web
+## > 2. Create a Wordpress database and user
+## > 3. Configure Wordpress
+## > 4. Launch and access the website as local or through web
 >> Link: https://wordpress.org/support/article/how-to-install-wordpress/#detailed-instructions
 
 
 
 # Where can I get more help, if needed?
-> 1. Send an email to <22000263@handong.edu> for more help!
+## > 1. Send an email to <22000263@handong.edu> for more help!
 
 For information on building a WordPress Website:
 check https://blog.hubspot.com/marketing/wordpress-website
@@ -71,8 +71,8 @@ check https://blog.hubspot.com/marketing/wordpress-website
 
 
 ## References :
-1. Open Source Software Lab **lectures** of **prof. Soyeon Jang** : <http://www.kocw.net/home/search/kemView.do?kemId=1375889>
-2. Wordpress: https://ko.wordpress.org/download/releases/
+## 1. Open Source Software Lab **lectures** of **prof. Soyeon Jang** : <http://www.kocw.net/home/search/kemView.do?kemId=1375889>
+## 2. Wordpress: https://ko.wordpress.org/download/releases/
 
 
 ## Contribution :
