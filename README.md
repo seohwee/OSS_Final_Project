@@ -12,23 +12,23 @@ This project is based on CMS(Contents Management System) using WordPress develop
 
 
 # This site provides users with: 
-> 1. travel guide and information based on experiences and information accumulated over the 8 years of living in Japan.
-> 2. Weather information in Japan.
+**> 1. travel guide and information based on experiences and information accumulated over the 8 years of living in Japan.
+> 2. Weather information in Japan.**
 
 <img width="617" alt="Screen Shot 2021-06-10 at 10 24 01 PM" src="https://user-images.githubusercontent.com/71685755/121533110-ebeca300-ca3a-11eb-9455-0ee7704ec180.png">
 
 
-> 3. Travel schedule
-> 4. Reviews from travelers. 
+**> 3. Travel schedule
+> 4. Reviews from travelers. **
 
 <img width="582" alt="Screen Shot 2021-06-10 at 10 21 34 PM" src="https://user-images.githubusercontent.com/71685755/121532582-71bc1e80-ca3a-11eb-98ba-4188680d0ce9.png">
 
-> 5. Adding reviews and comments + Rating destination
-
+**> 5. Adding reviews and comments + Rating destination
+**
 <img width="635" alt="Screen Shot 2021-06-10 at 10 24 31 PM" src="https://user-images.githubusercontent.com/71685755/121532950-c95a8a00-ca3a-11eb-989f-ed2a271c3734.png">
 
-> 6. A video clip that provides tips when traveling to Japan.
-<img width="617" alt="Screen Shot 2021-06-10 at 10 19 11 PM" src="https://user-images.githubusercontent.com/71685755/121532052-f490a980-ca39-11eb-90f1-cef822d393a5.png"> 
+**> 6. A video clip that provides tips when traveling to Japan.
+**<img width="617" alt="Screen Shot 2021-06-10 at 10 19 11 PM" src="https://user-images.githubusercontent.com/71685755/121532052-f490a980-ca39-11eb-90f1-cef822d393a5.png"> 
 
 
 
