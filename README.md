@@ -15,9 +15,9 @@ This project is based on CMS(Contents Management System) using WordPress develop
 > 1. travel guide and information based on experiences and information accumulated over the 8 years of living in Japan.
 > 2. Weather information in Japan.
 > 3. Travel schedule
-> 4. Reviews from travelers.
-> 
-> 5. A video clip that provides tips when traveling to Japan.
+> 4. Reviews from travelers. 
+> 5. Adding reviews and comments + Rating destination
+> 6. A video clip that provides tips when traveling to Japan.
 > <img width="617" alt="Screen Shot 2021-06-10 at 10 19 11 PM" src="https://user-images.githubusercontent.com/71685755/121532052-f490a980-ca39-11eb-90f1-cef822d393a5.png"> 
 
 
