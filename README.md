@@ -45,6 +45,11 @@ This project is based on CMS(Contents Management System) using WordPress develop
 <img width="617" alt="Screen Shot 2021-06-10 at 10 19 11 PM" src="https://user-images.githubusercontent.com/71685755/121532052-f490a980-ca39-11eb-90f1-cef822d393a5.png"> 
 
 
+# My Contribution:
+* I downloaded and updated all the files, such as MySQL, MariaDB, php, and Apache beforehand.
+* I configured WordPress server on my Raspberrypi.
+* I researched and searched all the information and photos put on my website. 
+* I imported various plugins to customize my website. 
 
 
 # How do I get started?
