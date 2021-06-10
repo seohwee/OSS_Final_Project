@@ -31,6 +31,7 @@ This site provides users with:
 # How do I get started?
 ## Before installing WordPress (Requirements): 
 > 1. Install MySQL 5.6 or MariaDB 10.1 or greater, php 7.4 or greater, and Apache
+>> Link: https://wordpress.org/support/article/before-you-install/
 
 ## Instructions:  
 > 1. Download and unzip Wordpress package! 
@@ -38,7 +39,7 @@ This site provides users with:
 > 2. Create a Wordpress database and user
 > 3. Configure Wordpress
 > 4. Launch and access the website as local or through web
-
+>> Link: https://wordpress.org/support/article/how-to-install-wordpress/#detailed-instructions
 
 
 
